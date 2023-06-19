@@ -1,0 +1,1 @@
+﻿ Scaffold-DbContext "server=127.0.0.1;port=3307;user=sa;password=12345678;database=quizzb" MySql.EntityFrameworkCore -OutputDir DataObject

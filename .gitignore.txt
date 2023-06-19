@@ -6,12 +6,12 @@
 *.user
 *.userosscache
 *.sln.docstates
-*.DataAccessLayer
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
 # Build results
+QuizzBankBE.DataAccessLayer/
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/

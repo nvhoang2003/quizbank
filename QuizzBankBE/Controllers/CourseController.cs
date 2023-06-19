@@ -8,10 +8,11 @@ using QuizzBankBE.Model.Pagination;
 using QuizzBankBE.Model;
 using QuizzBankBE.Services.CourseServices;
 using QuizzBankBE.DataAccessLayer.DataObject;
+using Microsoft.AspNetCore.Authorization;
 
 namespace QuizzBankBE.Controllers
 {
-    //[Authorize]
+    [Authorize]
     [ApiController]
     [EnableCors("AllowAll")]
     [Produces("application/json")]

@@ -13,7 +13,7 @@ using Microsoft.AspNetCore.Cors;
 
 namespace QuizzBankBE.Controllers
 {
-    //[Authorize]
+    [Authorize]
     [ApiController]
     [EnableCors("AllowAll")]
     [Produces("application/json")]

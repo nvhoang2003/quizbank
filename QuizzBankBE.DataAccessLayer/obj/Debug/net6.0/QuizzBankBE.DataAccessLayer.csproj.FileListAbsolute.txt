@@ -12,3 +12,17 @@ C:\Users\My computer\source\repos\QuizzBankBE\QuizzBankBE.DataAccessLayer\obj\De
 C:\Users\My computer\source\repos\QuizzBankBE\QuizzBankBE.DataAccessLayer\obj\Debug\net6.0\QuizzBankBE.DataAccessLayer.pdb
 C:\Users\My computer\source\repos\QuizzBankBE\QuizzBankBE.DataAccessLayer\obj\Debug\net6.0\QuizzBankBE.DataAccessLayer.genruntimeconfig.cache
 C:\Users\My computer\source\repos\QuizzBankBE\QuizzBankBE.DataAccessLayer\obj\Debug\net6.0\ref\QuizzBankBE.DataAccessLayer.dll
+D:\Documents\C#\quizbank\QuizzBankBE.DataAccessLayer\bin\Debug\net6.0\QuizzBankBE.DataAccessLayer.deps.json
+D:\Documents\C#\quizbank\QuizzBankBE.DataAccessLayer\bin\Debug\net6.0\QuizzBankBE.DataAccessLayer.runtimeconfig.json
+D:\Documents\C#\quizbank\QuizzBankBE.DataAccessLayer\bin\Debug\net6.0\QuizzBankBE.DataAccessLayer.dll
+D:\Documents\C#\quizbank\QuizzBankBE.DataAccessLayer\bin\Debug\net6.0\QuizzBankBE.DataAccessLayer.pdb
+D:\Documents\C#\quizbank\QuizzBankBE.DataAccessLayer\obj\Debug\net6.0\QuizzBankBE.DataAccessLayer.csproj.AssemblyReference.cache
+D:\Documents\C#\quizbank\QuizzBankBE.DataAccessLayer\obj\Debug\net6.0\QuizzBankBE.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\C#\quizbank\QuizzBankBE.DataAccessLayer\obj\Debug\net6.0\QuizzBankBE.DataAccessLayer.AssemblyInfoInputs.cache
+D:\Documents\C#\quizbank\QuizzBankBE.DataAccessLayer\obj\Debug\net6.0\QuizzBankBE.DataAccessLayer.AssemblyInfo.cs
+D:\Documents\C#\quizbank\QuizzBankBE.DataAccessLayer\obj\Debug\net6.0\QuizzBankBE.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Documents\C#\quizbank\QuizzBankBE.DataAccessLayer\obj\Debug\net6.0\QuizzBankBE.DataAccessLayer.dll
+D:\Documents\C#\quizbank\QuizzBankBE.DataAccessLayer\obj\Debug\net6.0\refint\QuizzBankBE.DataAccessLayer.dll
+D:\Documents\C#\quizbank\QuizzBankBE.DataAccessLayer\obj\Debug\net6.0\QuizzBankBE.DataAccessLayer.pdb
+D:\Documents\C#\quizbank\QuizzBankBE.DataAccessLayer\obj\Debug\net6.0\QuizzBankBE.DataAccessLayer.genruntimeconfig.cache
+D:\Documents\C#\quizbank\QuizzBankBE.DataAccessLayer\obj\Debug\net6.0\ref\QuizzBankBE.DataAccessLayer.dll
